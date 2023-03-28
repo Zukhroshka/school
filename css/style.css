@@ -1,0 +1,33 @@
+
+li a:hover {
+    background-color: rgb(255, 126, 126);
+    }
+.p1{
+    text-align: center;
+}
+li a {
+border:1px solid transparent;
+color:rgb(255, 53, 53);
+text-decoration: none;
+display: block;
+padding: 13px;
+text-transform: uppercase;
+}
+nav{
+    font-size: 18px;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    display: inline-block;
+}
+.article{
+    margin-top: 25vh;
+    color: rgb(189, 99, 96);
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
